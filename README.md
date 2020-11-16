@@ -18,5 +18,3 @@ That inspired me to think back to my youth. When I was young my dad (a then engi
 DETAILS
 
 The device I'm working on would contain a GPS module, display, and keypad. When an "agent" arrives at a pay phone, the device would be held up to the handset and dial the "headquarters." From there it would transmit the GPS coordinates either using DTMF or FSK mapping the phone in the real world.
-
-TEST
